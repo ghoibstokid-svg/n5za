@@ -27,17 +27,3 @@
 
 > 🖥️ Daily driver: **Arch Linux** — btw.
 
----
-
-
-## 📌 Pinned Projects
-
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [osint-mcp](https://github.com/n5za/osint-mcp) | 86-tool OSINT MCP server with private evidence graphs, image analysis, reverse search, and person dossiers. | Python | 26 ⭐ |
-| [chess-mate](https://github.com/n5za/chess-mate) | Endless chess.com autoplay bot. Plays rated games with engine-quality moves, adaptive human-like speed per time control, and auto next game. | JavaScript | 13 ⭐ |
-
-
-<p align="center">
-  <b>Made with ❤️ — Learning every day. Building step by step. ;)</b>
-</p>
