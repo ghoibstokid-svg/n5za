@@ -49,11 +49,10 @@
 
 ## 📌 Pinned Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| Project 1 | Short description | Python, HTML |
-| Project 2 | Short description | JS, CSS |
-| Project 3 | Short description | TypeScript |
+| Project | Description | Tech | Stars |
+|---------|-------------|------|-------|
+| [osint-mcp](https://github.com/n5za/osint-mcp) | 86-tool OSINT MCP server with private evidence graphs, image analysis, reverse search, and person dossiers. | Python | 26 ⭐ |
+| [chess-mate](https://github.com/n5za/chess-mate) | Endless chess.com autoplay bot. Plays rated games with engine-quality moves, adaptive human-like speed per time control, and auto next game. | JavaScript | 13 ⭐ |
 
 ---
 
