@@ -29,19 +29,6 @@
 
 ---
 
-## 📽 Demos / Previews
-
-<p align="center">
-  [Image 1] — App overview
-</p>
-
-<p align="center">
-  [Image 2] — Features in action
-</p>
-
-> 💡 Drop your GIFs in `assets/` and update the paths above.
-
----
 
 ## 📌 Pinned Projects
 
@@ -50,29 +37,6 @@
 | [osint-mcp](https://github.com/n5za/osint-mcp) | 86-tool OSINT MCP server with private evidence graphs, image analysis, reverse search, and person dossiers. | Python | 26 ⭐ |
 | [chess-mate](https://github.com/n5za/chess-mate) | Endless chess.com autoplay bot. Plays rated games with engine-quality moves, adaptive human-like speed per time control, and auto next game. | JavaScript | 13 ⭐ |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n5za&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n5za&layout=compact&theme=dark" alt="Top languages" />
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/n5za">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/n5za">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <b>Made with ❤️ — Learning every day. Building step by step. ;)</b>
