@@ -25,74 +25,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" />
 </p>
 
+> 🖥️ Daily driver: **Arch Linux** — btw.
+
 ---
 
 ## 📽 Demos / Previews
 
 <p align="center">
-  <b>[Image 1]</b> — App overview
-</p>
-<p align="center">
-  <img src="assets/demo-1.gif" alt="Demo 1" width="600" />
+  [Image 1] — App overview
 </p>
 
 <p align="center">
-  <b>[Image 2]</b> — Features in action
-</p>
-<p align="center">
-  <img src="assets/demo-2.gif" alt="Demo 2" width="600" />
+  [Image 2] — Features in action
 </p>
 
 > 💡 Drop your GIFs in `assets/` and update the paths above.
 
 ---
 
-## 🚀 Mes projets
+## 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/n5za/osint-mcp">
-    <img src="https://img.shields.io/badge/osint--mcp-Python-blue?style=for-the-badge&logo=python" alt="osint-mcp" />
-  </a>
-  <a href="https://github.com/n5za/chess-mate">
-    <img src="https://img.shields.io/badge/chess--mate-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="chess-mate" />
-  </a>
-</p>
-
-| Projet | Tech | Description |
-|--------|------|-------------|
-| **[osint-mcp](https://github.com/n5za/osint-mcp)** | Python | 86-tool OSINT MCP server — evidence graphs, image analysis, reverse search, person dossiers. |
-| **[chess-mate](https://github.com/n5za/chess-mate)** | JavaScript | Chess.com autoplay bot — engine-quality moves, adaptive human-like speed, auto next game. |
-
----
-
-## 🎨 Dessin / Schéma
-
-```text
-          ┌─────────────────────────────────────┐
-          │         MON ÉCOSYSTÈME              │
-          └──────────────┬──────────────────────┘
-                         │
-          ┌──────────────▼──────────────┐
-          │         n5za / GitHub       │
-          └──────────┬───────────┬──────┘
-                     │           │
-   ┌─────────────────▼─┐   ┌─────▼─────────────────┐
-   │   🔍 osint-mcp    │   │   ♟️ chess-mate       │
-   │   (Python, 86 tools)│ │   (JavaScript, bot)   │
-   │   • Evidence graphs│   │   • Engine moves      │
-   │   • Image analysis │   │   • Human-like speed  │
-   │   • Reverse search │   │   • Auto next game    │
-   │   • Person dossiers│   │                       │
-   └─────────┬─────────┘   └───────────┬───────────┘
-             │                         │
-             └──────────┬──────────────┘
-                        │
-          ┌─────────────▼─────────────┐
-          │   Learning every day.     │
-          │   Building step by step.  │
-          └───────────────────────────┘
-```
-
+| Project | Description | Tech | Stars |
+|---------|-------------|------|-------|
+| [osint-mcp](https://github.com/n5za/osint-mcp) | 86-tool OSINT MCP server with private evidence graphs, image analysis, reverse search, and person dossiers. | Python | 26 ⭐ |
+| [chess-mate](https://github.com/n5za/chess-mate) | Endless chess.com autoplay bot. Plays rated games with engine-quality moves, adaptive human-like speed per time control, and auto next game. | JavaScript | 13 ⭐ |
 
 ---
 
